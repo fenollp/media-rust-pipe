@@ -1,4 +1,4 @@
 [submodule "mediapipe"]
 	path = mediapipe
-	url = ./mediapipe
-	branch = rusty_01
+	url = https://github.com/google/mediapipe.git
+	branch = release

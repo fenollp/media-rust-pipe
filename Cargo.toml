@@ -11,3 +11,4 @@ cxx = "1.0.2"
 
 [build-dependencies]
 cxx-build = "1.0.2"
+protoc-bin-vendored = "3.0.0"
